@@ -1,0 +1,29 @@
+1 - yarn add react-router-dom // trabalha com as rotas
+2 - yarn add history // trabalha com a navegação utilizando o redux
+3 - yarn add prop-types // faz a validação das propriedades
+4 - yarn add styled-components // trabalha com os estilos
+5 - yarn add polished // trabalha com as cores
+6 - yarn add @rocketseat/unform // biblioteca que trabalha com o formulario
+7 - yarn add yup // trabalha com a validação dos campos
+8 - yarn add redux redux-saga react-redux 
+9 - yarn add immer // trabalha com o state no reducer
+/*
+    Locais de configurar o redux:
+    1-> reducer.js
+    2-> sagas.js
+    3-> rootReducer.js
+    4-> rootSaga.js
+    5-> index.js (da pasta do store)
+    6-> adiciona o Provider passando o store no app.js
+*/
+10 - yarn add axios // trabalha com as chamadas à API
+11 - yarn add redux-persist // trabalha com a persistencia de dados no redux
+/*
+    Configura o persistReducer.js, depois o index.js na raiz da pasta store e
+    por ultimo o App.js
+*/
+12 - yarn add react-toastify // trabalha com as mensagens
+13 - yarn add react-icons // trabalha com os icones
+14 - yarn add react-perfect-scrollbar // trabalha com o scrollbar
+15 - yarn add date-fns // trabalha com a formatação das datas
+16 - yarn add date-fns-tz // trabalha com timeZone
